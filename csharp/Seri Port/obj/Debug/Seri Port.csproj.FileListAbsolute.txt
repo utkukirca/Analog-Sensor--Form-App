@@ -1,0 +1,51 @@
+c:\users\krcsa\documents\visual studio 2015\Projects\Seri Port\Seri Port\bin\Debug\Seri Port.exe.config
+C:\Users\krcsa\documents\visual studio 2015\Projects\Seri Port\Seri Port\bin\Debug\Seri Port.exe
+C:\Users\krcsa\documents\visual studio 2015\Projects\Seri Port\Seri Port\bin\Debug\Seri Port.pdb
+C:\Users\krcsa\documents\visual studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri_Port.Form1.resources
+C:\Users\krcsa\documents\visual studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri_Port.Properties.Resources.resources
+C:\Users\krcsa\documents\visual studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri Port.csproj.GenerateResource.Cache
+C:\Users\krcsa\documents\visual studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri Port.exe
+C:\Users\krcsa\documents\visual studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri Port.pdb
+C:\Users\krcsa\Documents\Visual Studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri Port.csprojResolveAssemblyReference.cache
+C:\Users\krcsa\Documents\Visual Studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri_Port.Form2.resources
+C:\Users\krcsa\Documents\PROJELER\Visual Studio 2015\Projects\Seri Port\Seri Port\bin\Debug\Seri Port.exe.config
+C:\Users\krcsa\Documents\PROJELER\Visual Studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri Port.exe
+C:\Users\krcsa\Documents\PROJELER\Visual Studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri Port.pdb
+C:\Users\krcsa\Documents\PROJELER\Visual Studio 2015\Projects\Seri Port\Seri Port\bin\Debug\Seri Port.exe
+C:\Users\krcsa\Documents\PROJELER\Visual Studio 2015\Projects\Seri Port\Seri Port\bin\Debug\Seri Port.pdb
+C:\Users\krcsa\Documents\PROJELER\Visual Studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri Port.csprojResolveAssemblyReference.cache
+C:\Users\krcsa\Documents\PROJELER\Visual Studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri_Port.Form1.resources
+C:\Users\krcsa\Documents\PROJELER\Visual Studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri_Port.Form2.resources
+C:\Users\krcsa\Documents\PROJELER\Visual Studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri_Port.Properties.Resources.resources
+C:\Users\krcsa\Documents\PROJELER\Visual Studio 2015\Projects\Seri Port\Seri Port\obj\Debug\Seri Port.csproj.GenerateResource.Cache
+C:\Users\krcsa\source\repos\Seri Port\Seri Port\bin\Debug\Seri Port.exe.config
+C:\Users\krcsa\source\repos\Seri Port\Seri Port\bin\Debug\Seri Port.exe
+C:\Users\krcsa\source\repos\Seri Port\Seri Port\bin\Debug\Seri Port.pdb
+C:\Users\krcsa\source\repos\Seri Port\Seri Port\obj\Debug\Seri Port.csprojResolveAssemblyReference.cache
+C:\Users\krcsa\source\repos\Seri Port\Seri Port\obj\Debug\Seri_Port.Form1.resources
+C:\Users\krcsa\source\repos\Seri Port\Seri Port\obj\Debug\Seri_Port.Properties.Resources.resources
+C:\Users\krcsa\source\repos\Seri Port\Seri Port\obj\Debug\Seri Port.csproj.GenerateResource.Cache
+C:\Users\krcsa\source\repos\Seri Port\Seri Port\obj\Debug\Seri Port.csproj.CoreCompileInputs.cache
+C:\Users\krcsa\source\repos\Seri Port\Seri Port\obj\Debug\Seri Port.exe
+C:\Users\krcsa\source\repos\Seri Port\Seri Port\obj\Debug\Seri Port.pdb
+C:\Users\krcsa\source\repos\CSharp_SeriPort_Haberlesmesi\Seri Port\bin\Debug\Seri Port.exe.config
+C:\Users\krcsa\source\repos\CSharp_SeriPort_Haberlesmesi\Seri Port\bin\Debug\Seri Port.exe
+C:\Users\krcsa\source\repos\CSharp_SeriPort_Haberlesmesi\Seri Port\bin\Debug\Seri Port.pdb
+C:\Users\krcsa\source\repos\CSharp_SeriPort_Haberlesmesi\Seri Port\obj\Debug\Seri Port.csprojResolveAssemblyReference.cache
+C:\Users\krcsa\source\repos\CSharp_SeriPort_Haberlesmesi\Seri Port\obj\Debug\Seri_Port.Form1.resources
+C:\Users\krcsa\source\repos\CSharp_SeriPort_Haberlesmesi\Seri Port\obj\Debug\Seri_Port.Properties.Resources.resources
+C:\Users\krcsa\source\repos\CSharp_SeriPort_Haberlesmesi\Seri Port\obj\Debug\Seri Port.csproj.GenerateResource.Cache
+C:\Users\krcsa\source\repos\CSharp_SeriPort_Haberlesmesi\Seri Port\obj\Debug\Seri Port.csproj.CoreCompileInputs.cache
+C:\Users\krcsa\source\repos\CSharp_SeriPort_Haberlesmesi\Seri Port\obj\Debug\Seri Port.exe
+C:\Users\krcsa\source\repos\CSharp_SeriPort_Haberlesmesi\Seri Port\obj\Debug\Seri Port.pdb
+C:\Users\enescan\Desktop\csharp\Seri Port\bin\Debug\Seri Port.exe.config
+C:\Users\enescan\Desktop\csharp\Seri Port\bin\Debug\Seri Port.exe
+C:\Users\enescan\Desktop\csharp\Seri Port\bin\Debug\Seri Port.pdb
+C:\Users\enescan\Desktop\csharp\Seri Port\obj\Debug\Seri Port.csproj.AssemblyReference.cache
+C:\Users\enescan\Desktop\csharp\Seri Port\obj\Debug\Seri Port.csproj.SuggestedBindingRedirects.cache
+C:\Users\enescan\Desktop\csharp\Seri Port\obj\Debug\Seri_Port.Form1.resources
+C:\Users\enescan\Desktop\csharp\Seri Port\obj\Debug\Seri_Port.Properties.Resources.resources
+C:\Users\enescan\Desktop\csharp\Seri Port\obj\Debug\Seri Port.csproj.GenerateResource.cache
+C:\Users\enescan\Desktop\csharp\Seri Port\obj\Debug\Seri Port.csproj.CoreCompileInputs.cache
+C:\Users\enescan\Desktop\csharp\Seri Port\obj\Debug\Seri Port.exe
+C:\Users\enescan\Desktop\csharp\Seri Port\obj\Debug\Seri Port.pdb
